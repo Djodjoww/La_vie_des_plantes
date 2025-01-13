@@ -1,0 +1,15 @@
+# Forcer les fins de ligne LF pour les fichiers de code
+*.php text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+
+# Conserver CRLF pour les fichiers spécifiques à Windows
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Traiter les fichiers binaires comme non textuels
+*.png binary
+*.jpg binary
+*.gif binary
+*.zip binary
