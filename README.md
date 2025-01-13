@@ -39,15 +39,6 @@ Avant de commencer, assurez-vous que les outils suivants sont installés :
    - Créez une nouvelle base de données nommée `la_vie_des_plantes_db`.
    - Importez le fichier SQL fourni (`la_vie_des_plantes.sql`).
 
-4. **Configurez `wp-config.php` :**
-   - Modifiez les informations de connexion dans le fichier `wp-config.php` :
-     ```php
-     define('DB_NAME', 'la_vie_des_plantes_db');
-     define('DB_USER', 'root');
-     define('DB_PASSWORD', '');
-     define('DB_HOST', 'localhost');
-     ```
-
 ### Étape 2 : Lancer le site
 1. **Démarrez XAMPP :**
    - Activez les services **Apache** et **MySQL**.
@@ -57,7 +48,8 @@ Avant de commencer, assurez-vous que les outils suivants sont installés :
 
 3. **Connectez-vous à l'administration :**
    - URL : [http://localhost/la_vie_des_plantes/wp-admin](http://localhost/la_vie_des_plantesCEF/wp-admin).
-   - Identifiants : définis dans `wp_users` ou configurés lors de l'installation.
+   - Identifiants : Djodjoww
+   - Password : Motdepasse.1
 
 ---
 
